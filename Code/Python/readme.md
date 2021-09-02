@@ -1,0 +1,1 @@
+This section contains the python program running on the raspberry pi which handles coordination on the machines (to ensure only one plays at a time) and other functions such as canceling, powering on and off, and selecting songs remotely. 
